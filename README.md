@@ -1,5 +1,4 @@
-# Postnatal Gut Microbiota Succession in Mice
-
+# Postnatal gut microbiota succession in mice is impacted by maturation, site, injury, and single immunoglobulin interleukin-1 related receptor (SIGIRR) genotype
 ## Overview
 This repository contains data and analysis scripts for studying postnatal gut microbiota succession in mice, focusing on how gut microbiome composition evolves over time, across different intestinal sites, in response to injury, and under the influence of host genetics. The study involves novel transgenic SigirrMut mice encoding a SIGIRR p.Y168X mutation that disrupts postnatal intestinal adaptation.
 
