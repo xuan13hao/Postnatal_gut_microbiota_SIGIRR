@@ -56,6 +56,6 @@ Ensure you have the following tools installed:
 If you use this repository, please cite:
 > "Postnatal gut microbiota succession in mice is impacted by maturation, site, injury, and single immunoglobulin interleukin-1 related receptor (SIGIRR) genotype."
 
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+<!-- ## License
+This project is licensed under the MIT License - see the `LICENSE` file for details. -->
 
